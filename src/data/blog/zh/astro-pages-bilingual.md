@@ -3,7 +3,7 @@ title: AstroPages-Bilingual  博客部署教程
 pubDatetime: 2026-03-20
 description: AstroPages-Bilingual  博客部署,按照官方步骤来.最后更改一个地方,不知是不是作者忘了.
 draft: false
-featured: false
+featured: true
 tags:
   - 博客
   - 教程
